@@ -1,0 +1,106 @@
+
+
+a, nav{
+
+text-decoration: none;
+color: aliceblue;
+
+}
+
+
+.flexcontenedor{
+
+    display: flex;
+}
+
+
+.divizquierdo{
+    width: 70%;
+    
+    
+}
+
+.divderecho{
+
+width: 28%;
+
+}
+
+aside{
+
+background-color: darkgray;
+padding: 20px;
+
+}
+
+.ladoimagenes{
+
+    display: flex;
+   
+}
+
+.ladoizquierdo{
+
+    width: 30%;
+
+}
+
+.ladocentro{
+width: 40%;
+
+
+}
+
+.ladoderecho{
+width: 30%;
+}
+
+
+
+
+.form-group{
+
+text-align: center;
+padding: 2px;
+margin-bottom: 2px;
+
+}
+
+label {
+    display:inline-block;
+    width: 110px;
+    text-align: left;
+    margin-right: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="file"],
+select {
+    width: 200px;
+   
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+
+.linkimg1{
+
+background-color:crimson;
+
+}
+
+.linkimg2{
+
+background-color: dodgerblue;
+
+}
+
+.linkimg3{
+
+
+    background-color:crimson; 
+}
